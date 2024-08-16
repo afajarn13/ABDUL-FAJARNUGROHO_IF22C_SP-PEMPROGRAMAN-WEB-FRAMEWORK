@@ -1,0 +1,15 @@
+1. Membuat survey baru
+http://localhost:8080/2/simpan.php
+
+2. Mendapatkan semua survey
+http://localhost:8080/2/all.php
+
+3. Mengambil detail survey tertentu
+http://localhost:8080/2/get1.php
+
+
+4. Menjawab survey  
+http://localhost:8080/2/simpan_jawaban_id.php
+
+5. Mendapatkan semua jawaban untuk survey tertentu
+http://localhost:8080/2/get_jawaban.php

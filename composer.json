@@ -1,0 +1,10 @@
+{
+    "name": "survey/survey1",
+    "description": "-",
+    "autoload": {
+        "psr-4": {
+            "Survey\\Survey1\\": "src/"
+        }
+    },
+    "require": {}
+}
